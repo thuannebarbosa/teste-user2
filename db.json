@@ -16,25 +16,25 @@
          "id":1,
          "nome":"Ana",
          "sobrenome":"Silva",
-         "setor":true
+         "setor": "informatica"
       },
       {
          "id":2,
          "nome":"João",
          "sobrenome":"Sousa",
-         "setor":false
+         "setor": "RH"
       },
       {
          "id":3,
          "nome":"Lucas",
          "sobrenome":"Neto",
-         "setor":false
+         "setor":"RH"
       },
       {
          "id":4,
          "nome":"Bruna",
          "sobrenome":"Santos",
-         "setor":false
+         "setor": "Marketing"
       }
    ]
 }

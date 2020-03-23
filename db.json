@@ -1,0 +1,36 @@
+{
+    "user": [
+      {
+        "username": "admin",
+        "password": "admin123",
+        "a": true
+      },
+      {
+        "username": "guest",
+        "password": "guest123",
+        "a": false
+      }
+    ],
+     "funcionarios": [
+      {
+        "nome": "Ana",
+        "sobrenome": "Silva",
+        "setor": true
+      },
+      {
+        "nome": "João",
+        "sobrenome": "Sousa",
+        "setor": false
+      },
+      {
+        "nome": "Lucas",
+        "sobrenome": "Neto",
+        "setor": false
+      },
+      {
+        "nome": "Bruna",
+        "sobrenome": "Santos",
+        "setor": false
+      }
+    ]
+}

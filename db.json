@@ -1,40 +1,40 @@
 {
-    "user": [
+   "user":[
       {
-        "username": "admin",
-        "password": "admin123",
-        "a": true
+         "username":"admin",
+         "password":"admin123",
+         "a":true
       },
       {
-        "username": "guest",
-        "password": "guest123",
-        "a": false
+         "username":"guest",
+         "password":"guest123",
+         "a":false
       }
-    ],
-     "funcionarios": [
+   ],
+   "funcionarios":[
       {
-        "id": 1,
-        "nome": "Ana",
-        "sobrenome": "Silva",
-        "setor": true
+         "id":1,
+         "nome":"Ana",
+         "sobrenome":"Silva",
+         "setor":true
       },
       {
-        "id": 2,
-        "nome": "João",
-        "sobrenome": "Sousa",
-        "setor": false
+         "id":2,
+         "nome":"João",
+         "sobrenome":"Sousa",
+         "setor":false
       },
       {
-        "id": 3,
-        "nome": "Lucas",
-        "sobrenome": "Neto",
-        "setor": false
+         "id":3,
+         "nome":"Lucas",
+         "sobrenome":"Neto",
+         "setor":false
       },
       {
-        "id": 4,
-        "nome": "Bruna",
-        "sobrenome": "Santos",
-        "setor": false
+         "id":4,
+         "nome":"Bruna",
+         "sobrenome":"Santos",
+         "setor":false
       }
-    ]
+   ]
 }
